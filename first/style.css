@@ -1,0 +1,30 @@
+body {
+	background-color: #C9C9C9;
+	text-align: center;
+	margin: 0px;
+}
+
+header {
+	background: #434343;
+	height: 107px;
+}
+
+main {
+	width: 68vw;
+	height: 68vh;
+	/*position: relative;*/
+	background: #FFFFFF;
+	display: inline-block;
+	/*padding-bottom: 20px;*/
+}
+
+footer {
+	background: #1A1A1A;
+	width: 68vw;
+	height: 50px;
+	/*position: absolute;*/
+	/*bottom: 0;*/
+	display: inline-block;
+}
+
+/*still need to fix the gap between main and footer*/
