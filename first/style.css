@@ -2,6 +2,7 @@ body {
 	background-color: #C9C9C9;
 	text-align: center;
 	margin: 0px;
+	position: relative;
 }
 
 header {
@@ -11,20 +12,17 @@ header {
 
 main {
 	width: 68vw;
-	height: 68vh;
-	/*position: relative;*/
+	height: 71vh;
 	background: #FFFFFF;
 	display: inline-block;
-	/*padding-bottom: 20px;*/
+	margin-bottom: -10px;
 }
 
 footer {
 	background: #1A1A1A;
+	margin: 0 auto;
 	width: 68vw;
-	height: 50px;
-	/*position: absolute;*/
-	/*bottom: 0;*/
+	height: 7.5vh;
 	display: inline-block;
+	padding-top: 0;
 }
-
-/*still need to fix the gap between main and footer*/
